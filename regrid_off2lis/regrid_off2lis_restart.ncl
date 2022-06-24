@@ -19,10 +19,10 @@ end setvalues
 begin
 
 ; ================================== Options ===================================
-fname_lis_in      = "/g/data/w35/mm3972/model/wrf/NUWRF/LISWRF_configs/ctl_26Sep/LIS_output/LIS_RST_CABLE_200101010000.d01.nc"
-fname_lis_hist    = "/g/data/w35/mm3972/model/wrf/NUWRF/LISWRF_configs/ctl_26Sep/LIS_output/LIS.CABLE.200012-200012.d01.nc"
-fname_lis_out     = "/g/data/w35/mm3972/model/wrf/NUWRF/LISWRF_configs/ctl_26Sep/LIS_output/LIS_RST_CABLE_200101010000_off-gw.d01.nc"
-fname_off_in      = "/g/data/w35/mm3972/model/cable/runs/sanaa_run/test_fix_satfrac_10km/restarts/restart_2019.nc"
+fname_lis_in      = "/g/data/w97/mm3972/model/wrf/NUWRF/LISWRF_configs/drght_2017_2019/LIS_output/LIS_RST_CABLE_201701010000.d01.nc"
+fname_lis_hist    = "/g/data/w97/mm3972/model/wrf/NUWRF/LISWRF_configs/drght_2017_2019/LIS_output/LIS.CABLE.201612-201612.d01.nc"
+fname_lis_out     = "/g/data/w97/mm3972/model/wrf/NUWRF/LISWRF_configs/drght_2017_2019/LIS_output/LIS_RST_CABLE_201701010000_new.d01.nc"
+fname_off_in      = "/g/data/w97/mm3972/model/cable/runs/sanaa_run/test_fix_satfrac_10km/restarts/restart_2017.nc"
 
 system("cp "+fname_lis_in+" "+fname_lis_out)
 

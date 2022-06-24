@@ -49,96 +49,50 @@ off_2D_lvl2_names = (/"csoil"/)
 
 ; =================================== Dates selection ==================================
 
-; ; =========== 28th Jan 2009 ===========
-; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
-
+; ; =========== 28th Jan 2009 - 3 Nov ===========
+; ; Emsemble: 10, 9, 8, 7, 6 days before heatwaves
+;
 ; ; Offline CABLE: one day before the targeted restart date
 ; slct_year_off     = (/"2009","2009","2009","2009","2009" /)
 ; slct_mon_off      = (/  "01",  "01",  "01",  "01",  "01" /)
-; slct_day_off      = (/  "13",  "15",  "17",  "19",  "21" /)
-; slct_doy          = (/    14,    16,    18,    20,   22  /)
+; slct_day_off      = (/  "17",  "18",  "19",  "20",  "21" /)
+; slct_doy          = (/    18,    19,    20,    21,   22  /)
 ; ; Here, slct_doy should always be 1 day later than slct_day
 ; ; Here, "2009-01-13" means the simulation at 2009-01-13 21:00:00 AEST
-
+;
 ; ; LIS-CABLE, UTC
 ; slct_year         = (/"2009","2009","2009","2009","2009"/)
 ; slct_mon          = (/  "01",  "01",  "01", "01",  "01" /)
-; slct_day          = (/  "13",  "15",  "17", "19",  "21" /)
+; slct_day          = (/  "17",  "18",  "19", "20",  "21" /)
 ; ; Here, "2009-01-13" means the simulation at 2009-01-13 11:00:00 UTC
 
-
-; ; =========== 30th Jan 2011 ===========
-; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
-
-; ; Offline CABLE: one day before the targeted restart date
-; slct_year_off     = (/"2011","2011","2011","2011","2011" /)
-; slct_mon_off      = (/  "01",  "01",  "01",  "01",  "01" /)
-; slct_day_off      = (/  "15",  "17",  "19",  "21",  "23" /)
-; slct_doy          = (/    16,    18,    20,    22,   24  /)
-
-; ; LIS-CABLE, UTC
-; slct_year         = (/"2011","2011","2011","2011","2011"/)
-; slct_mon          = (/  "01",  "01",  "01", "01",  "01" /)
-; slct_day          = (/  "15",  "17",  "19",  "21",  "23"/)
-
-; ; =========== 1th Jan 2013 ===========
-; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
-
+; ; =========== 4th Jan 2013 - 3Nov ===========
+; ; Emsemble: 10, 9, 8, 7, 6 days before heatwaves
+;
 ; ; Offline CABLE: one day before the targeted restart date
 ; slct_year_off     = (/"2012","2012","2012","2012","2012" /)
 ; slct_mon_off      = (/  "12",  "12",  "12",  "12",  "12" /)
-; slct_day_off      = (/  "17",  "19",  "21",  "23",  "25" /)
-; slct_doy          = (/   352,   354,   356,   358,  360  /)
-
+; slct_day_off      = (/  "24",  "25",  "26",  "27",  "28" /)
+; slct_doy          = (/    25,    26,    27,    28,    29 /)
+;
 ; ; LIS-CABLE, UTC
 ; slct_year         = (/"2012","2012","2012","2012","2012"/)
 ; slct_mon          = (/  "12",  "12",  "12", "12",  "12" /)
-; slct_day          = (/  "17",  "19",  "21",  "23",  "25"/)
+; slct_day          = (/  "24",  "25",  "26",  "27", "28" /)
 
-
-; ; =========== 13th Jan 2014 ===========
-; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
-
-; ; Offline CABLE: one day before the targeted restart date
-; slct_year_off     = (/"2013","2013","2014","2014","2014" /)
-; slct_mon_off      = (/  "12",  "12",  "01",  "01",  "01" /)
-; slct_day_off      = (/  "29",  "31",  "02",  "04",  "06" /)
-; slct_doy          = (/   364,   366,     3,    5,    7  /)
-
-; ; LIS-CABLE, UTC
-; slct_year         = (/"2013","2013","2014","2014","2014"/)
-; slct_mon          = (/  "12",  "12",  "01",  "01",  "01"/)
-; slct_day          = (/  "29",  "31",  "02",  "04",  "06"/)
-
-
-; ; =========== 31st Jan 2017 ===========
-; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
-
-; ; Offline CABLE: one day before the targeted restart date
-; slct_year_off     = (/"2017","2017","2017","2017","2017" /)
-; slct_mon_off      = (/  "01",  "01",  "01",  "01",  "01" /)
-; slct_day_off      = (/  "16",  "18",  "20",  "22",  "24" /)
-; slct_doy          = (/    17,    19,    21,    23,   25  /)
-
-; ; LIS-CABLE, UTC
-; slct_year         = (/"2017","2017","2017","2017","2017"/)
-; slct_mon          = (/  "01",  "01",  "01", "01",  "01" /)
-; slct_day          = (/  "16",  "18",  "20",  "22",  "24"/)
-
-
-; =========== 12th Jan 2019 ===========
-; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
+; =========== 14th Jan 2019 - 3 Nov ===========
+; Emsemble: 10, 9, 8, 7, 6 days before heatwaves
 
 ; Offline CABLE: one day before the targeted restart date
-slct_year_off     = (/"2018","2018","2019","2019","2019" /)
-slct_mon_off      = (/  "12",  "12",  "01",  "01",  "01" /)
-slct_day_off      = (/  "28",  "30",  "01",  "03",  "05" /)
-slct_doy          = (/   363,   365,     2,     4,   6   /)
+slct_year_off     = (/"2019","2019","2019","2019","2019" /)
+slct_mon_off      = (/  "01",  "01",  "01",  "01",  "01" /)
+slct_day_off      = (/  "03",  "04",  "05",  "06",  "07" /)
+slct_doy          = (/     4,     5,     6,     7,     8 /)
 
 ; LIS-CABLE, UTC
-slct_year         = (/"2018","2018","2019","2019","2019"/)
-slct_mon          = (/  "12",  "12",  "01", "01",  "01" /)
-slct_day          = (/  "28",  "30",  "01", "03",  "05" /)
+slct_year         = (/"2019","2019","2019","2019","2019"/)
+slct_mon          = (/  "01",  "01",  "01", "01",  "01" /)
+slct_day          = (/  "03",  "04",  "05", "06",  "07" /)
 
 
 slct_event_sum    = dimsizes(slct_year)
@@ -165,7 +119,7 @@ do slct_event_num = 0, slct_event_sum - 1
 
   ; the time of the daily restart file is 9pm in AEST and 11am in UTC
   ; however, since wrf cannot start from the time except the start of a day,
-  ; we here need to use the offline restart at UTC 11am of day x 
+  ; we here need to use the offline restart at UTC 11am of day x
   ; to initilize UTC 12am of day x+1 (middle night before morning).
   ; Thus, there are 13 hours without simulating
 
@@ -191,7 +145,7 @@ do slct_event_num = 0, slct_event_sum - 1
 	flis->time@units = "minutes since "+slct_year(slct_event_num)+"-"+slct_mon(slct_event_num)+"-"+slct_day(slct_event_num)+" 11:00:00"
 	flis->time@time_increment = "3600"
   flis->time@begin_date = slct_year(slct_event_num)+slct_mon(slct_event_num)+slct_day(slct_event_num)
-	flis->time@begin_time = "110000" 
+	flis->time@begin_time = "110000"
 
   do var_num = 0, dimsizes(lis_1D_names) - 1
     print(off_1D_names(var_num))
@@ -255,3 +209,96 @@ do slct_event_num = 0, slct_event_sum - 1
 end do ; slct_case_num
 
 end
+
+
+;  ===================== History ========================
+
+; ; =========== 28th Jan 2009 - 15 Oct ===========
+; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
+
+; ; Offline CABLE: one day before the targeted restart date
+; slct_year_off     = (/"2009","2009","2009","2009","2009" /)
+; slct_mon_off      = (/  "01",  "01",  "01",  "01",  "01" /)
+; slct_day_off      = (/  "13",  "15",  "17",  "19",  "21" /)
+; slct_doy          = (/    14,    16,    18,    20,   22  /)
+; ; Here, slct_doy should always be 1 day later than slct_day
+; ; Here, "2009-01-13" means the simulation at 2009-01-13 21:00:00 AEST
+
+; ; LIS-CABLE, UTC
+; slct_year         = (/"2009","2009","2009","2009","2009"/)
+; slct_mon          = (/  "01",  "01",  "01", "01",  "01" /)
+; slct_day          = (/  "13",  "15",  "17", "19",  "21" /)
+; ; Here, "2009-01-13" means the simulation at 2009-01-13 11:00:00 UTC
+
+; ; =========== 30th Jan 2011 ===========
+; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
+
+; ; Offline CABLE: one day before the targeted restart date
+; slct_year_off     = (/"2011","2011","2011","2011","2011" /)
+; slct_mon_off      = (/  "01",  "01",  "01",  "01",  "01" /)
+; slct_day_off      = (/  "15",  "17",  "19",  "21",  "23" /)
+; slct_doy          = (/    16,    18,    20,    22,   24  /)
+
+; ; LIS-CABLE, UTC
+; slct_year         = (/"2011","2011","2011","2011","2011"/)
+; slct_mon          = (/  "01",  "01",  "01", "01",  "01" /)
+; slct_day          = (/  "15",  "17",  "19",  "21",  "23"/)
+
+; ; =========== 1th Jan 2013 ===========
+; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
+
+; ; Offline CABLE: one day before the targeted restart date
+; slct_year_off     = (/"2012","2012","2012","2012","2012" /)
+; slct_mon_off      = (/  "12",  "12",  "12",  "12",  "12" /)
+; slct_day_off      = (/  "17",  "19",  "21",  "23",  "25" /)
+; slct_doy          = (/   352,   354,   356,   358,  360  /)
+
+; ; LIS-CABLE, UTC
+; slct_year         = (/"2012","2012","2012","2012","2012"/)
+; slct_mon          = (/  "12",  "12",  "12", "12",  "12" /)
+; slct_day          = (/  "17",  "19",  "21",  "23",  "25"/)
+
+
+; ; =========== 13th Jan 2014 ===========
+; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
+
+; ; Offline CABLE: one day before the targeted restart date
+; slct_year_off     = (/"2013","2013","2014","2014","2014" /)
+; slct_mon_off      = (/  "12",  "12",  "01",  "01",  "01" /)
+; slct_day_off      = (/  "29",  "31",  "02",  "04",  "06" /)
+; slct_doy          = (/   364,   366,     3,    5,    7  /)
+
+; ; LIS-CABLE, UTC
+; slct_year         = (/"2013","2013","2014","2014","2014"/)
+; slct_mon          = (/  "12",  "12",  "01",  "01",  "01"/)
+; slct_day          = (/  "29",  "31",  "02",  "04",  "06"/)
+
+
+; ; =========== 31st Jan 2017 ===========
+; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
+
+; ; Offline CABLE: one day before the targeted restart date
+; slct_year_off     = (/"2017","2017","2017","2017","2017" /)
+; slct_mon_off      = (/  "01",  "01",  "01",  "01",  "01" /)
+; slct_day_off      = (/  "16",  "18",  "20",  "22",  "24" /)
+; slct_doy          = (/    17,    19,    21,    23,   25  /)
+
+; ; LIS-CABLE, UTC
+; slct_year         = (/"2017","2017","2017","2017","2017"/)
+; slct_mon          = (/  "01",  "01",  "01", "01",  "01" /)
+; slct_day          = (/  "16",  "18",  "20",  "22",  "24"/)
+
+
+; ; =========== 12th Jan 2019 ===========
+; ; Emsemble: 14, 12, 10, 8, 6 days before heatwaves
+
+; ; Offline CABLE: one day before the targeted restart date
+; slct_year_off     = (/"2018","2018","2019","2019","2019" /)
+; slct_mon_off      = (/  "12",  "12",  "01",  "01",  "01" /)
+; slct_day_off      = (/  "28",  "30",  "01",  "03",  "05" /)
+; slct_doy          = (/   363,   365,     2,     4,   6   /)
+
+; ; LIS-CABLE, UTC
+; slct_year         = (/"2018","2018","2019","2019","2019"/)
+; slct_mon          = (/  "12",  "12",  "01", "01",  "01" /)
+; slct_day          = (/  "28",  "30",  "01", "03",  "05" /)

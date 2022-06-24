@@ -1,0 +1,217 @@
+ERROR: Directory '/g/data3/hh5/public/modules' not found
+ERROR: Unable to locate a modulefile for 'conda/analysis3-unstable'
+ Copyright (C) 1995-2019 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.6.2
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+
+
+Variable: off_1D_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	cansto
+
+
+Variable: off_1D_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	rtsoil
+
+
+Variable: off_1D_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	ssdnn
+
+
+Variable: off_1D_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	snowd
+
+
+Variable: off_1D_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	osnowd
+
+
+Variable: off_1D_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	snage
+
+
+Variable: off_1D_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	wbtot0
+
+
+Variable: off_1D_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	GWwb
+
+
+Variable: off_1D_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	tss
+
+
+Variable: off_1D_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	ga
+
+
+Variable: off_2D_lvl6_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	wbice
+
+
+Variable: off_2D_lvl6_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	tgg
+
+
+Variable: off_2D_lvl6_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	wb
+
+
+Variable: off_2D_lvl6_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	gammzz
+
+
+Variable: off_2D_lvl3_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	tggsn
+
+
+Variable: off_2D_lvl3_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	smass
+
+
+Variable: off_2D_lvl3_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	ssdn
+
+
+Variable: off_2D_lvl3_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	albsoilsn
+
+
+Variable: off_2D_lvl3_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	albsoil
+
+
+Variable: off_2D_lvl3_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	cplant
+
+
+Variable: off_2D_lvl3_names (subsection)
+Type: string
+Total Size: 8 bytes
+            1 values
+Number of Dimensions: 1
+Dimensions and sizes:	[1]
+Coordinates: 
+(0)	tggsn
